@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.29)  6 JUL 2024 07:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.29)  6 JUL 2024 08:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CVKIKUYU.tex
-(./CVKIKUYU.tex
+**portfoliocv.tex
+(./portfoliocv.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -592,13 +592,20 @@ Package: babel 2024/01/07 v24.1 The Babel package
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count304
-Package babel Info: You haven't specified a language as a class or package
-(babel)             option. I'll load 'nil'. Reported on input line 4342.
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
-Language: nil 2024/01/07 v24.1 Nil language
-\l@nil=\language8
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language5). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language5). Reported on input line 108.
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
 
@@ -730,30 +737,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip101
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 24.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 24.
+Package hyperref Info: Option `breaklinks' set `true' on input line 27.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 27.
 
-(./CVKIKUYU.aux)
-\openout1 = `CVKIKUYU.aux'.
+(./portfoliocv.aux)
+\openout1 = `portfoliocv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -777,19 +784,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `footnote' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Applying patch `item' on input line 27.
+Package microtype Info: Applying patch `toc' on input line 27.
+Package microtype Info: Applying patch `eqnum' on input line 27.
+Package microtype Info: Applying patch `footnote' on input line 27.
+Package microtype Info: Applying patch `verbatim' on input line 27.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+LaTeX Info: Redefining \showhyphens on input line 27.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -832,63 +839,68 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 24.
-(./CVKIKUYU.out) (./CVKIKUYU.out)
+Package hyperref Info: Link coloring OFF on input line 27.
+(./portfoliocv.out) (./portfoliocv.out)
 \@outlinefile=\write5
-\openout5 = `CVKIKUYU.out'.
+\openout5 = `portfoliocv.out'.
 
 \pagenumberwidth=\skip102
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 24.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 27.
 \makecvheadpicturebox=\box73
 \makecvheadpicturewidth=\skip103
 \makecvheadnamebox=\box74
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <38> not available
-(Font)              size <24.88> substituted on input line 26.
+(Font)              size <24.88> substituted on input line 29.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 26.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 29.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 26.
+(Font)              using `OT1/cmss/bx/n' instead on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 26.
+(Font)              <10.95> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
+(Font)              <6> on input line 29.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 
  []
 
+
+Overfull \hbox (7.09834pt too wide) in paragraph at lines 40--41
+[]\OT1/cmss/m/n/10.95 (-20) z [] 
+ []
+
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 48.
+nput line 50.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 48.
+nput line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 48.
+ input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 48.
+n input line 50.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 54.40001pt, for example:
-(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+(fancyhdr)                Make it at least 68.00002pt, for example:
+(fancyhdr)                \setlength{\footskip}{68.00002pt}.
 
 [1
 
@@ -899,19 +911,14 @@ esome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5
 /fa5brands0.enc}]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 53.
-
-Overfull \hbox (3.41197pt too wide) in paragraph at lines 63--63
- \OT1/cmss/m/n/10.95 (-20) Documentaries[]|
- []
-
-Excluding 'comment' comment.
+ Excluding 'comment' comment.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 54.40001pt, for example:
-(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+(fancyhdr)                Make it at least 68.00002pt, for example:
+(fancyhdr)                \setlength{\footskip}{68.00002pt}.
 
 [2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
-(./CVKIKUYU.aux)
+(./portfoliocv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -924,17 +931,17 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `CVKIKUYU.out' has not changed.
-(rerunfilecheck)             Checksum: 8E5F794DEA1B4A3036E11709F17069A0;1066.
+Package rerunfilecheck Info: File `portfoliocv.out' has not changed.
+(rerunfilecheck)             Checksum: 95D8A31E23E889CB253950E17DC6B914;1126.
  ) 
 Here is how much of TeX's memory you used:
- 26904 strings out of 476139
- 514042 string characters out of 5794454
- 1955975 words of memory out of 5000000
- 48381 multiletter control sequences out of 15000+600000
- 572115 words of font info for 116 fonts, out of 8000000 for 9000
+ 26938 strings out of 476139
+ 515439 string characters out of 5794454
+ 1953975 words of memory out of 5000000
+ 48409 multiletter control sequences out of 15000+600000
+ 572506 words of font info for 117 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 129i,12n,129p,1005b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1008b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
@@ -946,10 +953,10 @@ ts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 si12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb>
-Output written on CVKIKUYU.pdf (2 pages, 149089 bytes).
+Output written on portfoliocv.pdf (2 pages, 148867 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
+ 154 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
- 43109 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 45157 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.29)  4 JUL 2024 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.29)  6 JUL 2024 08:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,6 +599,10 @@ Package babel Info: You haven't specified a language as a class or package
 Language: nil 2024/01/07 v24.1 Nil language
 \l@nil=\language8
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
@@ -726,30 +730,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip101
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 23.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 23.
+Package hyperref Info: Option `breaklinks' set `true' on input line 24.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 24.
 
 (./documentKIswahili.aux)
 \openout1 = `documentKIswahili.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -773,19 +777,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 23.
-Package microtype Info: Applying patch `item' on input line 23.
-Package microtype Info: Applying patch `toc' on input line 23.
-Package microtype Info: Applying patch `eqnum' on input line 23.
-Package microtype Info: Applying patch `footnote' on input line 23.
-Package microtype Info: Applying patch `verbatim' on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Applying patch `item' on input line 24.
+Package microtype Info: Applying patch `toc' on input line 24.
+Package microtype Info: Applying patch `eqnum' on input line 24.
+Package microtype Info: Applying patch `footnote' on input line 24.
+Package microtype Info: Applying patch `verbatim' on input line 24.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 23.
+LaTeX Info: Redefining \showhyphens on input line 24.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -828,63 +832,63 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 24.
 (./documentKIswahili.out) (./documentKIswahili.out)
-\@outlinefile=\write4
-\openout4 = `documentKIswahili.out'.
+\@outlinefile=\write5
+\openout5 = `documentKIswahili.out'.
 
 \pagenumberwidth=\skip102
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 23.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 24.
 \makecvheadpicturebox=\box73
 \makecvheadpicturewidth=\skip103
 \makecvheadnamebox=\box74
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <38> not available
-(Font)              size <24.88> substituted on input line 25.
+(Font)              size <24.88> substituted on input line 26.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 25.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 26.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 25.
+(Font)              using `OT1/cmss/bx/n' instead on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
 
  []
 
 
-Overfull \hbox (4.65788pt too wide) in paragraph at lines 39--39
+Overfull \hbox (4.65788pt too wide) in paragraph at lines 40--40
  []|[]\OT1/cmss/m/n/10.95 (-20) Wanaosimamia[]|
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 47.
+nput line 48.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 47.
+nput line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 47.
+ input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 47.
+n input line 48.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -899,20 +903,15 @@ cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontaw
 esome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5
 /fa5brands0.enc}]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 52.
-
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 53.
+ Excluding 'comment' comment.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
 (fancyhdr)                Make it at least 54.40001pt, for example:
 (fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 54.40001pt, for example:
-(fancyhdr)                \setlength{\footskip}{54.40001pt}.
-
-[3] (./documentKIswahili.aux)
+(./documentKIswahili.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -929,13 +928,13 @@ Package rerunfilecheck Info: File `documentKIswahili.out' has not changed.
 (rerunfilecheck)             Checksum: E5C45C97DEC4B7DA0D64DA54612AB9D7;1081.
  ) 
 Here is how much of TeX's memory you used:
- 26841 strings out of 476139
- 513145 string characters out of 5794454
- 1958975 words of memory out of 5000000
- 48331 multiletter control sequences out of 15000+600000
+ 26891 strings out of 476139
+ 514110 string characters out of 5794454
+ 1952975 words of memory out of 5000000
+ 48378 multiletter control sequences out of 15000+600000
  571790 words of font info for 111 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 129i,12n,129p,1014b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,129p,1014b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
@@ -947,10 +946,10 @@ ts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 si12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb>
-Output written on documentKIswahili.pdf (3 pages, 150041 bytes).
+Output written on documentKIswahili.pdf (2 pages, 148125 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 14 named destinations out of 1000 (max. 500000)
  43109 words of extra memory for PDF output out of 51595 (max. 10000000)
 
